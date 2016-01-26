@@ -1,0 +1,54 @@
+# A Profile in Well-Intentioned Failure...
+
+## I am unprepared today.
+I think the flu-ike symptoms that emerged Thursday eve were, in part, a function of stress, which was, in part a function of my ill-advised approach to this project, manifested across the following missteps:
+
+1. Excess ambition
+
+> The conceptual and mapping process took on a life of its own and I ended up with a concept that was perhaps too complicated for my knowledge/skill level and the alloted time. [Niche forum for people underwhelmed by today's musical trends]
+
+2. Too much time researching and reviewing to fill in the gaps.
+
+3. Too much time testing the functions on dummy content, before I had the basic site up.
+
+- E.g., I got links/forms/posts/etc. to work in this mess: (http://localhost:3000/bumpin)
+
+4. Decision to forgo bootstrap/skeleton and build site from scratch, with limited css/html skill.
+
+### Mock-ups for the site pages:
+
+![Front page](https://cloud.githubusercontent.com/assets/15331966/12554100/efcf6ace-c348-11e5-8b4f-a0237d148f4b.png)
+
+![Front page 2](https://cloud.githubusercontent.com/assets/15331966/12595103/75f9ed50-c447-11e5-89ff-3cc1b4e8c7b8.png)
+
+![Sign-up form](https://cloud.githubusercontent.com/assets/15331966/12554127/0a8f26ba-c349-11e5-9a81-a6a3fd2490b3.png)
+
+![Member profile](https://cloud.githubusercontent.com/assets/15331966/12554147/1e62c2aa-c349-11e5-94fd-c21d63044fd2.png)
+
+![Member profile update](https://cloud.githubusercontent.com/assets/15331966/12554156/271faf7a-c349-11e5-84b9-1e8564cab31f.png)
+
+![PW update](https://cloud.githubusercontent.com/assets/15331966/12554166/36a6c262-c349-11e5-9921-c620652f7e01.png)
+
+![Song entry form](https://cloud.githubusercontent.com/assets/15331966/12554188/541f0188-c349-11e5-9b8d-36167f248bf1.png)
+
+![Song detail](https://cloud.githubusercontent.com/assets/15331966/12554203/5d327ba6-c349-11e5-99c5-8357d9e5bcae.png)
+
+![Member song detail with upvote](https://cloud.githubusercontent.com/assets/15331966/12554210/68750132-c349-11e5-99a7-ed8258846b24.png)
+
+![Same member song detail](https://cloud.githubusercontent.com/assets/15331966/12554225/72ed53f8-c349-11e5-81a6-51a5f19969e5.png)
+
+![Song update form](https://cloud.githubusercontent.com/assets/15331966/12554238/82f6e548-c349-11e5-9c5c-0139d58d95bc.png)
+
+![Message board list](https://cloud.githubusercontent.com/assets/15331966/12554243/8bcd7bbe-c349-11e5-956c-64678858eb48.png)
+
+![Discussion entry form](https://cloud.githubusercontent.com/assets/15331966/12554255/9ab468ae-c349-11e5-9645-6d10ea82bbd7.png)
+
+![Discussion comment form](https://cloud.githubusercontent.com/assets/15331966/12554259/a1ec73b4-c349-11e5-8e6c-7a83a7beeeb2.png)
+
+![Comment edit form](https://cloud.githubusercontent.com/assets/15331966/12554266/a7d9aa9e-c349-11e5-9512-11bae534cc69.png)
+
+![Comment reply form](https://cloud.githubusercontent.com/assets/15331966/12554282/b03241a6-c349-11e5-8d54-1f3653fc623a.png)
+
+5. Not enough time to pull it all off, especially given time wasted being ill.
+
+![Did not complete a funcitoning site](file:///Users/Faloye/Documents/GA_WDI/project/project2a/index2.html)
