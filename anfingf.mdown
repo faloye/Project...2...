@@ -11,7 +11,7 @@ I think the flu-ike symptoms that emerged Thursday eve were, in part, a function
 
 3. Too much time testing the functions on dummy content, before I had the basic site up.
 
-- E.g., I got links/forms/posts/etc. to work in this mess: (http://localhost:3000/bumpin)
+> E.g., I got links/forms/posts/etc. to work in this mess: (http://localhost:3000/bumpin)
 
 4. Decision to forgo bootstrap/skeleton and build site from scratch, with limited css/html skill.
 
